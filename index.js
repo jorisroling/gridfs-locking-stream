@@ -8,8 +8,8 @@
  * Module dependencies.
  */
 
-var Lock = require('gridfs-locks').Lock;
-var LockCollection = require('gridfs-locks').LockCollection;
+var Lock = require('@yonderbox/gridfs-locks').Lock;
+var LockCollection = require('@yonderbox/gridfs-locks').LockCollection;
 
 var GridWriteStream = require('gridfs-stream/lib/writestream');
 var GridReadStream = require('gridfs-stream/lib/readstream');
