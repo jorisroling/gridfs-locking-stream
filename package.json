@@ -1,6 +1,6 @@
 {
   "author": "Vaughn Iverson",
-  "name": "gridfs-locking-stream",
+  "name": "@yonderbox/gridfs-locking-stream",
   "description": "Writable/Readable Nodejs compatible GridFS streams with locking for safe concurrent access",
   "main": "index.js",
   "version": "1.1.1",
@@ -33,11 +33,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/vsivsi/gridfs-locking-stream.git"
+    "url": "git://github.com/jorisroling/gridfs-locking-stream.git"
   },
   "readmeFilename": "Readme.md",
   "bugs": {
-    "url": "https://github.com/vsivsi/gridfs-locking-stream/issues"
+    "url": "https://github.com/jorisroling/gridfs-locking-stream/issues"
   },
   "author": "Vaughn Iverson",
   "license": "MIT"
